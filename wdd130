@@ -16,10 +16,10 @@
 <main>
     <h1>Ughala Samuel | WDD 130</h1>
     <img src="images/profile.jpg" alt="Hello, my name is Ughala Samuel" width="200">
-    <p>Hello! My name is Ughala Samuel and I am from Lagos, Nigeria. I enjoy meeting new people.</p>
+    <p>Hello! My name is Ughala Samuel and I am from Lagos, Nigeria. I enjoy meeting new people and playing football.</p>
 </main>
 <footer>
-    <p>(c)2024 🎶Ughala Samuel Lagos, Nigeria</p>
+    <p>The copyright symbol: &copy;2024 🎶Ughala Samuel Lagos, Nigeria</p>
 </footer>
 </body>
 </html>
